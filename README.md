@@ -10,3 +10,5 @@ To Calculate the Average Wage by INdustry, I used AverageIFS Function.
 
 ## AverageIFS Function
 Description: Returns the average (arithmetic mean) of all cells that meet multiple criteria.
+
+![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/Capture.PNG)
