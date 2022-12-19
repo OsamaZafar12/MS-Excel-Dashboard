@@ -17,3 +17,5 @@ Description: Returns the average (arithmetic mean) of all cells that meet multip
  Well, In terms of functionality, the most essential difference is that AVERAGEIF can only handle one condition while AVERAGEIFS one or more criteria.
 
 ![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/Capture.PNG)
+
+In Industry table, I need to have excat value, whicih is in Industry Filter table, So I used VLOOKUP CHART
