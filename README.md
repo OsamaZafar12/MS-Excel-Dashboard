@@ -6,7 +6,7 @@ I used US Labor statistic data set. First, I will make a new sheet with the name
 
 ![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/Capture9.PNG)
 
-To Calculate the Average Wage by INdustry, I used AverageIFS Function.
+To Calculate the Average Wage by Industry, I used AverageIFS Function.
 
 ![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/A.PNG)
 
