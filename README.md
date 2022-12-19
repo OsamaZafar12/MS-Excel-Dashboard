@@ -4,7 +4,7 @@ Making a Dashboard on Excel is a pretty tedious job. You have to navigate throug
 
 I used US Labor statistic data set. First, I will make a new sheet with the name of "Data Prep".
 
-![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/Capture.PNG)
+![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/Capture9.PNG)
 
 To Calculate the Average Wage by INdustry, I used AverageIFS Function.
 
