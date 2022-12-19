@@ -4,6 +4,8 @@ Making a Dashboard on Excel is a pretty tedious job. You have to navigate throug
 
 I used US Labor statistic data set. First, I will make a new sheet with the name of "Data Prep".
 
-## What is SumiFs function?##
-
 ![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/Capture.PNG)
+
+To Calculate the Average Wage by INdustry, I used AverageIFS Function.
+
+## AverageIFS Function
