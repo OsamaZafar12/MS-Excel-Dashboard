@@ -8,6 +8,8 @@ I used US Labor statistic data set. First, I will make a new sheet with the name
 
 To Calculate the Average Wage by INdustry, I used AverageIFS Function.
 
+![](https://github.com/OsamaZafar12/MS-Excel-Dashboard/blob/main/A.PNG)
+
 ## AverageIFS Function
 Description: Returns the average (arithmetic mean) of all cells that meet multiple criteria.
 
